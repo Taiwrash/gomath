@@ -11,18 +11,19 @@ go get github.com/Taiwrash/goarrayminmax
 
 
 ```go
-package main 
+package main
 
 import (
-    "github.com/Taiwrash/gomath"
-    "fmt"
-    )
+	"fmt"
 
-func main(){
-    min = gomath.Min([]int{3, 5,9, 7})
-    max = gomath.Max([]int{3, 5,9, 7})
-    fmt.Println("Min: ", min)
-    fmt.Println("Max: ", max)
+	"github.com/Taiwrash/gomath"
+)
+
+func main() {
+	min := gomath.Min([]int{3, 5, 9, 7})
+	max := gomath.Max([]int{3, 5, 9, 7})
+	fmt.Println("Min: ", min)
+	fmt.Println("Max: ", max)
 }
 ```
 
