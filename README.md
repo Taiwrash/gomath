@@ -4,7 +4,7 @@ Solving Data Structure and Algorigthm question with NEETCODE and we need to get 
 
 ### Installation
 ```bash
-go get github.com/Taiwrash/goarrayminmax
+go get github.com/Taiwrash/gomath
 ```
 
 ### Usage
